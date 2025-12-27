@@ -1,0 +1,644 @@
+Article
+The Impact of Artificial Intelligence (AI) on Students’
+Academic Development
+Aniella Mihaela Vieriu 1, and Gabriel Petrea 2
+1
+The Department of Teacher Training and Social Sciences, The National University of Science and Technology
+POLITEHNICABucharest, 060042 Bucures ,ti, Romania
+2
+
+The National University of Science and Technology POLITEHNICA Bucharest, 060042 Bucures ,ti, Romania
+Correspondence aniella.vieriu@upb.ro; Tel. +40-756531269
+Abstract The integration of Artificial Intelligence (AI) in education has transformed aca
+demic learning, offering both opportunities and challenges for students’ development. This
+study investigates the impact of AI technologies on students’ learning processes and aca
+demic performance, with a focus on their perceptions and the challenges associated with AI
+adoption. Conducted at the National University of Science and Technology POLITEHNICA
+Bucharest, this research involved second-year students who had direct experience with AI
+enhanced learning environments. Using purposive sampling, 85 participants were selected
+to ensure relevance. Data were collected through a structured questionnaire comprising
+11 items as follows seven closed-ended questions assessing perceptions, usage, and the
+effectiveness of AI tools; and four open-ended questions exploring experiences, expecta
+tions, and concerns. Quantitative data were analyzed using frequency and percentage
+calculations, while qualitative responses were subjected to thematic analysis, incorporating
+both vertical (individual responses) and horizontal (cross-dataset) approaches to ensure
+comprehensive theme identification. The findings reveal that AI offers significant benefits,
+including personalized learning, improved academic outcomes, and enhanced student
+engagement. However, challenges such as over-reliance on AI, diminished critical thinking
+skills, data privacy risks, and academic dishonesty were also identified. The study under
+scores the necessity of a structured framework for AI integration, supported by ethical
+guidelines, to maximize benefits while mitigating risks. In conclusion, while AI holds
+AcademicEditor HanReichgelt
+Received 6February2025
+Revised 5March2025
+Accepted 7March2025
+Published 11 March2025
+Citation Vieriu, A. M., &Petrea, G.
+(2025). The ImpactofArtificial
+Intelligence (AI) on Students’
+AcademicDevelopment. Education
+Sciences, 15(3), 343. httpsdoi.org
+10.3390educsci15030343
+Copyright ©2025bytheauthors.
+Licensee MDPI,Basel,Switzerland.
+This article is an open access article
+distributed under the termsand
+conditions of the Creative Commons
+Attribution (CC BY)license
+(httpscreativecommons.org
+licensesby4.0).
+immense potential to enhance learning efficiency and academic performance, its successful
+implementation requires addressing concerns related to accuracy, cognitive disengagement,
+and ethical implications. A balanced approach is essential to ensure equitable, effective,
+and responsible learning experiences in AI-enhanced educational environments.
+Keywords artificial intelligence in education; academic development; personalized
+learning; education technology; student engagement; critical thinking
+1. Introduction
+The rapid advancement of Artificial Intelligence (AI) is transforming various sectors,
+and education is no exception. AI plays a significant role in both general and higher educa
+tion, influencing students’ academic development by offering a mix of opportunities and
+challenges (Edtech, 2020). From personalized learning experiences to intelligent tutoring
+systems that provide tailored guidance, support, and feedback based on individual learning
+patterns and knowledge levels (Hwang et al., 2020), AI has the potential to revolution
+ize education (Holmes et al., 2019) and address the diverse needs of learners. However,
+positive educational outcomes are not guaranteed solely by the adoption of advanced AI
+Educ. Sci. 2025, 15, 343
+httpsdoi.org10.3390educsci15030343
+Educ. Sci. 2025, 15, 343
+2 of 12
+technologies (Castaneda & Selwyn, 2018; Du Boulay, 2000; Selwyn, 2016). The integration
+of AI in academic environments raises critical questions related to equity, accessibility,
+and the evolving role of traditional teaching methods. The influence of AI on education
+is transformative and multifaceted. AI enables personalized learning by adapting educa
+tional content to meet the unique needs of individual students (Hennekeuser et al., 2024).
+Studies have shown that students in personalized learning environments exhibit improved
+self-efficacy and a more positive attitude toward their education (Johnson & Smith, 2019).
+These experiences are increasingly achievable through AI-driven tools that analyze vast
+amounts of data to identify learning gaps and tailor interventions accordingly (J. A. Baker,
+2021). For instance, AI-powered platforms, such as adaptive learning systems, have been
+shown to enhance student engagement and performance by providing real-time feedback
+and customized learning pathways (Luckin et al., 2016; Zawacki-Richter et al., 2019).
+In traditional education, students are encouraged to take an active role in their learning
+process by developing skills in exploration, analysis, and problem solving. Critical thinking
+skills are essential for shaping students’ overall learning experiences. Educators often rely
+on questioning techniques, collaborative activities, and assignments to enhance students’
+ability to evaluate information and develop independent perspectives (Facione, 2020).
+However, the rapid information processing and insightful responses provided by AI
+challenge traditional learning methods, raising questions about the distinctions between
+human learning and machine-based learning. For example, while AI can efficiently process
+and analyze data, it may lack the nuanced understanding and creativity inherent in human
+cognition (Luckin et al., 2016). This underscores the need for a balanced approach to AI
+integration, ensuring that it complements rather than replaces human interaction and the
+development of critical thinking skills (Wu, 2023).
+The use of AI in education is not without its challenges. The effective integration of
+artificial intelligence in education requires a thorough understanding of both the technology
+and the learning process. This complexity is further heightened by ethical concerns, espe
+cially in the context of the increasing use of generative artificial intelligence. For instance,
+Qadir (2023) highlights the risk of students misusing AI tools in dishonest or unautho
+rized ways, such as using AI-generated content to complete assignments without proper
+attribution. Additionally, concerns about the application of AI in surveillance, control,
+and assessment practices could undermine trust and autonomy in educational settings
+(Williamson, 2017). Higher education institutions must clearly define the role and extent of
+AI in student education to address these challenges effectively (Holmes & Tuomi, 2022).
+As data processing and computing technologies have evolved, artificial intelligence
+(AI) has been increasingly applied in the educational field, often referred to as Artifi
+cial Intelligence in Education (AIED). Applications such as intelligent tutoring systems,
+educational robots, learning analytics dashboards, adaptive learning platforms, andhuman
+computer interactions have demonstrated significant potential for enhancing teaching and
+learning (Chen et al., 2020; Zawacki-Richter et al., 2019). For example, intelligent tutoring
+systems have been shown to provide personalized feedback and support, improving stu
+dent engagement and learning outcomes (Luckin et al., 2016). Similarly, adaptive learning
+platforms leverage AI to tailor educational content to individual learners’ needs, promoting
+more effective and efficient learning experiences (Holmes et al., 2019).
+Despite advancements, AI integration in education raises critical questions about its
+alignment with established learning theories. While studies have explored challenges
+(Hwang et al., 2020), obstacles (T. Baker et al., 2019), and future perspectives (Pinkwart,
+2016), few explicitly analyze AI’ s diverse functions and their relationship with pedagogical
+frameworks. For instance, how do AI tools align with constructivist or socio-cultural
+theories emphasizing collaboration, context, and critical thinking (Luckin et al., 2016)
+Educ. Sci. 2025, 15, 343
+3 of 12
+Additionally, the long-term impact of AI on teaching, learning, and educational equity
+remains underexplored (Selwyn, 2022).
+Akeychallenge is ensuring AI complements, rather than replaces, human interaction.
+While AI automates tasks and provides data-driven insights, it lacks the empathy, creativity,
+and nuanced understanding of human educators (Holmes & Tuomi, 2022). Over-reliance
+on AI for assessment and feedback may reduce opportunities for meaningful dialogue and
+reflection, essential for higher-order thinking (Facione, 2020). Ethical concerns, such as data
+privacy, algorithmic bias, and the digital divide, must also be addressed to ensure equitable
+and inclusive learning environments (O’Neil, 2016).
+AI holds immense potential to transform education through personalized learning
+and adaptive systems. However, its integration requires caution. A deeper understanding
+of AI’ s interplay with educational theories, alongside addressing ethical and pedagogical
+challenges, is essential. A balanced, human-centered approach prioritizing equitable access
+can ensure AI empowers rather than excludes.
+This study examines the impact of artificial intelligence (AI) technologies on the
+learning processes and academic performance of students at the National University of
+Science and Technology POLITEHNICA Bucharest. Specifically, our research aims to
+explore the types of AI technologies utilized, the frequency of their use, and students’
+perceptions regarding their effectiveness in improving academic performance. Additionally,
+this study investigates the concerns and challenges associated with the integration of AI
+in education.
+2. Materials and Methods
+2.1. Sample
+The sample consisted of 85 second-year students, purposefully selected from the
+Aerospace and Medical Engineering programs, which emphasize AI integration. A pur
+posive, non-probabilistic sampling method was employed to ensure the selection of par
+ticipants with direct experience in AI-integrated learning environments, thus enhancing
+the relevance of the findings. Second-year students were chosen due to their foundational
+knowledge and early exposure to advanced technologies, such as AI.
+This approach allowed for a focused examination of individuals who had direct
+exposure to the technologies central to the study. Given the small sample size and its
+focus on specific academic programs, the findings should be considered preliminary and
+exploratory. They cannot be generalized to all students within these programs or to those
+in other fields. Future research with a larger, more diverse sample is needed to provide
+more robust insights.
+2.2. Data Collection and Research Instrument
+Data were collected using a self-administered questionnaire distributed via Google
+Forms. This platform was chosen for its user-friendly interface and integrated analytical
+tools, which facilitated efficient data management and interpretation. The study utilized
+a mixed-methods design, incorporating both quantitative and qualitative data collection
+techniques. The questionnaire consisted of 11 items, categorized into two types of questions
+as follows; 7 closed-ended questions designed to quantify students’ responses and identify
+patterns, and 4 open-ended questions aimed at capturing detailed qualitative insights into
+participants’ experiences, perceptions, and expectations regarding the impact of AI on their
+learning. The closed-ended questions were further divided as follows yesno questions
+(Items 1, 4, and 6), multiple-choice questions (Items 2 and 7), and Likert scale questions
+(Items 3 and 5), enabling both categorical and ordinal data analysis.
+Educ. Sci. 2025, 15, 343
+4 of 12
+2.3. Analysis
+Quantitative data were analyzed using descriptive statistical methods, including
+frequency and percentage calculations, to provide a clear overview of students’ percep
+tions, usage patterns, and the perceived effectiveness of AI tools. For the qualitative data,
+responses to the open-ended questions were analyzed using thematic analysis, a well
+established and rigorous method for interpreting qualitative data. The thematic analysis
+followed the framework proposed by Braun and Clarke (2006), ensuring a systematic and
+transparent approach to identifying, analyzing, and reporting patterns (themes) within
+the data.
+The analysis was conducted at two levels as follows vertical analysis, which focused
+on individual responses to identify unique insights; and horizontal analysis, which ex
+amined patterns across the entire dataset to ensure a comprehensive understanding of
+emerging themes. To enhance the validity and reliability of the findings, the analysis
+adhered to a structured, iterative process, as outlined by Ezzy (2002). This process included
+the following transcription of participants’ responses, creation of a coding scheme; de
+velopment of an analysis grid; analysis of transcripts and thematic interpretation; and
+calculation of statistical indicators. To further strengthen the validity of the results, data
+triangulation was employed. Responses from students in the Aerospace and Medical
+Engineering programs were compared to identify potential program-specific trends and
+to validate the consistency of the identified themes across different student populations.
+This mixed-methods approach, integrating both qualitative and quantitative analysis, pro
+vided a rich and nuanced understanding of students’ perceptions of AI in education, while
+ensuring the reliability, depth, and generalizability of the findings.
+3. Results
+Thedatainterpretation involved addressing each research question both quantitatively,
+by calculating frequencies within specific thematic categories; and qualitatively, through
+the statistical analysis of the participants’ responses.
+According to the statistical data obtained, 95.6% of respondents use artificial intelli
+gence technologies in academic activities. This high percentage suggests the widespread
+adoption of AI tools among students, reflecting the increasing integration of advanced
+technologies into the educational landscape.
+Regarding the main types of AI used in academic activities, 88.2% of respondents
+use virtual assistants (e.g., ChatGPT, Siri, Google Assistant, etc.), 42.4% of respondents
+use AI-based educational platforms (e.g., Coursera, Duolingo, etc.), 17.6% of respondents
+use automatic content generation tools, 8.2% of respondents use data processing tools
+(e.g., predictive analysis), while 3.5% of respondents use other types of AI. For the data
+analysis, frequency analysis and percentage calculations were applied. These descriptive
+techniques allowed for the determination of the distribution of responses across each AI
+usage category. Percentages were calculated by relating the number of responses for each
+category to the total number of participants (100% of responses), providing a clear picture
+of the prevalence of each AI usage option. Frequency analysis was essential in identifying
+general trends and understanding which technologies are the most and least popular in
+the academic environment. The results of the analysis suggest that AI usage in academia
+is already a well-established practice, with a clear preference for virtual assistants and
+AI-based educational platforms. This reflects a global trend towards the integration of
+interactive and accessible technologies in the educational process. Virtual assistants, being
+easy to use and accessible for a wide range of academic tasks, are by far the most popular.
+Additionally, AI-assisted educational platforms provide a personalized learning experience,
+which contributes to their frequent use.
+Educ. Sci. 2025, 15, 343
+5 of 12
+Furthermore, we set out to investigate the frequency of artificial intelligence tool
+usage in academic activities. The results show significant variation among students, with
+data indicating the widespread adoption of these technologies. Most students (57.6%) use
+them weekly, suggesting that these tools have become an integral part of the educational
+process, assisting with homework, projects, and knowledge enhancement. A considerable
+percentage, 18.8%, use AI daily, indicating a higher reliance on these technologies, possibly
+because they consider them essential for learning—whether through virtual assistants,
+educational platforms, or other AI-based tools. On the other hand, 11.8% of students use
+AI monthly, which may suggest occasional use depending on academic needs, while a
+similar percentage (11.8%) uses them rarely, indicating limited adoption or a preference for
+traditional learning methods. Only 1.2% of students stated that they do not use AI tools at
+all, confirming that AI has become an almost indispensable resource in education.
+We also wanted to investigate students’ perception of the impact of artificial intel
+ligence (AI) use in their learning process. The results showed a significant majority of
+students believe AI is helpful in their academic activities. Thus, 80% of them agree that
+using AI-based technologies enhances their educational experience, either by optimizing
+the time spent studying or by providing quick access to personalized educational resources
+that facilitate their understanding of complex materials. However, 17.6% of students ex
+pressed uncertainty about the effects of AI on their learning, which may suggest either
+limited use or a lack of familiarity with the potential of these tools. This group may include
+students who have not explored all the options AI offers in detail or those who are not
+yet convinced of the effectiveness of these technologies. In contrast, only 2.4% of students
+considered AI to be of no benefit to their educational process. These students might prefer
+traditional learning methods or may face difficulties in using these technologies, limiting
+their understanding of AI’ s potential in supporting their studies.
+Regarding the impact of AI usage on academic performance in exams, projects, and
+grades, many students believe that AI plays a positive role in improving their results.
+Specifically, 82.4% of students think that using AI contributes to enhancing their academic
+performance. However, some (15.3%) believe that implementing AI does not bring sig
+nificant changes in this regard, and 3.5% feel that it only limits knowledge acquisition.
+Additionally, only 2.4% of students think that using AI could lead to a decline in academic
+performance, suggesting that there are also critical voices regarding the long-term effects of
+this technology on the educational process.
+Wealso wanted to investigate to what extent students believe that the use of artificial
+intelligence (AI) contributes to their efficiency in the learning process, considering aspects
+such as saving time or quick access to relevant information. The results show that most
+students (83.5%) believe that AI improves their learning efficiency by facilitating quick
+access to educational resources, reducing the time needed to find information, and helping
+them organize their academic activities better. On the other hand, 10.6% of students do
+not think that using AI increases their learning efficiency, which may suggest a different
+perception of the utility of these technologies or a lack of familiarity with their potential.
+Additionally, 7.1% of students stated that they are unsure about AI’ s impact on their
+learning efficiency, which could reflect less frequent use or uncertainty about how these
+tools can support their learning. Most students recognize the benefits of AI in enhancing
+learning efficiency; however, there is still a portion of them who are not convinced by its
+effects, highlighting the need for the better understanding and use of these technologies.
+Whenit comes to the main concerns students have about using artificial intelligence
+in education, the most significant issue is the possibility of receiving incorrect or imprecise
+answers, with 48.2% of students expressing this concern. This is closely followed by worries
+about the negative impact on critical thinking (16.5%) and the risk of becoming overly
+Educ. Sci. 2025, 15, 343
+6 of 12
+dependent on technology (16.5%). Other concerns, though less common, include data
+privacy issues (9.4%), the fear that the results generated by AI may not truly belong to the
+student (3.5%), and a category labeled as “other” (5.9%). These concerns reflect a strong
+awareness among students of both the potential benefits and drawbacks of AI in education,
+particularly in relation to the accuracy of AI-generated content and its possible effects on
+their cognitive abilities and autonomy.
+For the item “What suggestions do you have for improving the use of AI in edu
+cation to more effectively support the learning process”, we applied thematic analysis
+to identify recurring patterns in student responses. This analysis followed a systematic
+process to ensure validity and reliability in capturing key themes. The following four our
+thematic categories were identified (Table 1), reflecting students’ varied perspectives and
+concerns regarding the use of AI in education (1) Proper Integration of AI in Educational
+Activities (27 responses) Students emphasized the need to strategically embed AI tools
+into teaching practices and learning environments, ensuring they complement rather than
+disrupt traditional methods. Suggestions included personalized learning platforms, in
+stant feedback applications, and algorithms to detect knowledge gaps and recommend
+exercises. (2) Limited and Controlled Use of AI (14 responses) Students advocated for a
+balanced approach, where AI supports learning without replacing human interaction or
+critical thinking. Concerns about over-reliance on AI and the need for clear usage guide
+lines were highlighted. (3) Improved Accuracy of Information (14 responses) Students
+stressed the importance of reliable AI-generated content, calling for rigorous validation
+processes to ensure accuracy and avoid misinformation. (4) Others (24 responses) This
+category included diverse suggestions, such as user-friendly AI interfaces, transparency in
+AI decision-making, and requests for free or discounted AI tools.
+Table 1. Suggestions for improving the use of AI in education.
+Thematic Categories
+Frequency
+Example Responses
+Proper Integration of AI in
+Educational Activities
+27
+Educating students in AI usage; interactive courses with
+personalized assignments; algorithms detecting knowledge
+gaps and suggesting exercises; personalized learning platforms;
+instant feedback applications.
+Limited and Controlled Use of AI
+14
+AI should only assist with explanations, not solving exercises;
+information should be processed through personal critical
+thinking; encouraging critical engagement with
+AI-generated data.
+Improved Accuracy of Information
+14
+AI should provide accurate and organized information;
+consistency in delivering correct answers; suggestions for
+improved validation processes in AI tools.
+Others
+24
+Discounts on paid AI programs for students; suggestions for
+free, more efficient AI tools; no suggestions offered.
+To strengthen the validity and reliability of our findings, we employed data triangu
+lation by comparing responses across different academic programs, namely Aerospace
+and Medical Engineering students. This allowed us to identify program-specific trends or
+concerns and cross-verify the consistency of the themes across different student popula
+tions. Triangulation further supported the robustness of our findings by ensuring that the
+identified themes held true across diverse student groups. The findings indicate that while
+students recognize the potential of AI to improve learning, they also have concerns and
+suggestions for optimizing its use in education. Overall, students advocate for a thought
+ful and responsible approach to AI integration, emphasizing its potential to enhance the
+Educ. Sci. 2025, 15, 343
+7 of 12
+learning process when used in a balanced and well-regulated manner. The analysis of these
+themes highlights the importance of ensuring AI tools add value to education without
+compromising the integrity of traditional learning methods.
+For the item “What are the main ways in which the use of artificial intelligence
+enhances your learning process (e.g., helps with understanding materials, saves time,
+provides additional resources, etc.)”, we identified three thematic categories as follows
+(Table 2) (1) Timesaving, (42 responses) Students widely noted that AI tools reduce the
+time spent on tasks like researching, processing information, and automating repetitive
+activities. AI’ s ability to provide summaries, find relevant information, and perform
+complex calculations allows learners to focus more on critical thinking and understanding.
+(2) Optimization of Information Comprehension (24 responses) Participants highlighted
+AI tools, such as intelligent tutoring systems, for simplifying complex concepts and pre
+senting information in digestible formats. Tailored content, instant feedback, and adaptive
+learning enhance understanding, retention, and engagement. (3) Information Structuring
+(16 responses) Students emphasized AI’ s role in organizing and categorizing information
+effectively. AI aids in visualizing data, creating outlines, and structuring research, helping
+learners navigate large volumes of information and focus on key aspects.
+Table 2. Ways in which the use of artificial intelligence enhances the learning process.
+Thematic Categories
+Frequency
+Example Responses
+Timesaving
+42
+AI saves time by quickly synthesizing broad topics upon
+request; reduces study hours by 50%; AI provides clear
+explanations, formulates answers, and synthesizes information
+effectively
+Optimization of Information
+Comprehension
+24
+AI helps clarify complex concepts, makes material easier to
+understand, and finds relevant sources for documentation; it
+can explain solutions step-by-step, create summaries, and
+logical diagrams.
+Information Structuring
+16
+AI organizes and structures information, summarizes content,
+offers additional resources, and clarifies complex topics; it
+supports learning by making information easily accessible and
+well-organized.
+Others
+24
+Discounts on paid AI programs for students; suggestions for
+free, more efficient AI tools; no suggestions offered.
+To strengthen the robustness and validity of these findings, descriptive statistical
+methods were applied to determine the frequency of responses within each thematic
+category, providing a quantitative dimension to support the qualitative analysis. These
+steps contributed to a comprehensive understanding of AI’ s role in enhancing the learning
+process. The findings highlight the multiple ways in which AI is integrated into learning,
+improving both efficiency and depth of understanding. The responses underscore AI’ s
+significant impact, not only in saving time but also in enhancing comprehension and aiding
+information organization, all of which contribute to a more effective and personalized
+learning experience.
+For the item “What are the main challenges or limitations you encounter when using
+artificial intelligence for your studies (e.g., incorrect information, excessive dependence
+on technology, lack of personalization, etc.)”, we identified the following four thematic
+categories (Table 3) (1) Accuracy of information, (60 responses) The primary concern
+amongusersisthereliability of dataprovidedbyAItools. Incorrectoroutdatedinformation
+can lead to misunderstandings and may negatively impact the learning process. (2) Over
+Educ. Sci. 2025, 15, 343
+8 of 12
+dependence on Technology (7 responses) Students highlighted the risk of relying too
+heavily on AI, which may hinder critical thinking and independent problem-solving skills.
+(3) Various Errors (6 responses) This category includes minor mistakes or glitches in AI
+systems that can disrupt the learning experience. (4) Others (6 responses) This category
+captures additional challenges that do not fit into the primary themes, reflecting the diverse
+limitations encountered by users in different contexts.
+Table 3. Main challenges or limitations encountered when using IA.
+Thematic Categories
+Frequency
+Example Responses
+The information is often incorrect and needs to be verified; I’ m
+frequently unsure if the answers provided are accurate, and I
+Accuracy of Information
+60
+need to cross-check with other sources; AI tools often pull from
+unverified or outdated databases, leading to unreliable results;
+some AI responses include irrelevant information, while others
+are incomplete or misleading.
+Excessive reliance on AI reduces critical thinking and academic
+Over-dependence on Technology
+7
+independence; I worry that students will become overly
+dependent on technology, leading to a lack of problem-solving
+abilities; the growing dependence on AI may cause people to
+neglect their own cognitive and analytical skills.
+Sometimes the AI doesn’t fully understand my question,
+leading to irrelevant responses; there are frequent writing errors
+Various Errors
+6
+and lack of grammatical accuracy in AI-generated content;
+certain tasks are beyond the AI’ s capability, such as more
+complex or nuanced problems; there is a lack of human
+interaction, which limits the overall learning experience.
+AI cannot replicate emotional nuances in text, which impacts its
+Other Challenges
+6
+relevance in some contexts; concerns about privacy and ethics
+arise, especially regarding how personal data is used by AI.
+To complementthe qualitative analysis, descriptive statistical methods were employed
+to calculate the frequency of responses in each category, providing a quantitative basis
+for the identified themes. This triangulation of data (i.e., combining qualitative thematic
+analysis with quantitative frequency counts) strengthens the validity of the findings by
+offering a comprehensive overview of students’ concerns regarding AI usage in education.
+These findings emphasize the need for ongoing efforts to address the challenges associated
+with AI integration into education. The concerns highlighted in the responses underline
+the importance of ensuring the accuracy, reliability, and ethical deployment of AI tools to
+mitigate the risks of over-reliance and system errors, ultimately fostering an environment
+where AI can complement and enhance traditional learning methods.
+For the item “Howwouldyoudescribethe impact of using artificial intelligence on the
+wayyoulearn andcollaborate with classmates or professors”, we identified three thematic
+categories as follows (Table 4) (1) Positive impact (51 responses) A significant number
+of respondents viewed AI as a valuable tool for enhancing learning and collaboration. AI
+was seen as facilitating access to resources, providing personalized content, and improv
+ing communication with peers and instructors. Tools like intelligent tutoring systems,
+discussion platforms, and automated feedback mechanisms were noted for increasing
+efficiency, engagement, and streamlining interactions. (2) Negative Impact (15 responses)
+Some participants experienced challenges, such as over-reliance on AI reducing critical
+thinking, a lack of human interaction, and concerns about the accuracy or suitability of
+AI-generated content. For some, AI-driven collaborations created a sense of detachment,
+Educ. Sci. 2025, 15, 343
+9 of 12
+diminishing the depth of their learning experience. (3) Neutral Impact (15 responses) Some
+participants perceived no significant shift in their learning or collaboration due to AI. They
+found AI tools useful but not transformative, suggesting that AI supplements rather than
+fundamentally alters their academic interactions.
+Table 4. Impact of using AI on learning and collaboration with classmates or professors.
+Thematic Categories
+Frequency
+Example Responses
+AI helps us improve our relationships with classmates and enhances the
+learning process; learning is faster, better structured, and more accessible
+thanks to AI; AI provides additional resources, making the learning process
+Positive Impact
+51
+more efficient and tailored to our needs; in collaborative learning, AI enables
+better communication through tools like chatbots or automated translations;
+AI supports personalized learning by adapting to individual needs and
+offering quick access to various educational resources.
+AI reduces my willingness to ask questions because I rely too much on it; the
+constant use of AI can lead to dependence, which discourages independent
+Negative Impact
+15
+thinking; there is a lack of human interaction, and the line between the online
+and real world becomes blurred; AI can make us passive learners and reduce
+critical thinking; AI is potentially harmful for academic integrity because it
+mayencourage cheating, as it makes tasks too easy.
+AI hasn’t impacted on the way I collaborate with my colleagues or professors;
+I don’t see any major effect of AI on my learning or relationships with others;
+Neutral Impact
+15
+AI doesn’t appear to have a significant influence on my collaboration with
+peers or professors; the use of AI hasn’t really changed my academic habits or
+howIinteract with those around me.”
+Descriptive statistical methods were used to calculate the frequency distributions for
+each category, providing a quantitative representation of AI’ s perceived impact. These
+f
+indings align with qualitative data, where most respondents emphasized AI’ s potential
+to enhance learning and collaboration. However, the negative and neutral categories
+highlight areas for improvement, such as ensuring accuracy, fostering human interaction,
+and promoting critical thinking.
+In conclusion, the thematic analysis reveals a generally positive outlook on AI’ s inte
+gration into academic environments, with most respondents reporting enhanced learning
+experiences. However, the findings also underscore the need for caution, as challenges
+like over-reliance and reduced human interaction must be addressed to optimize AI’ s role
+in education.
+4. Discussion
+This article analyzes the impact of AI technologies on students’ learning processes
+and academic performance, focusing on their perceptions and the challenges associated
+with AI integration in education.
+The results show that 95.6% of respondents use AI in their academic activities, under
+scoring the deep integration of this technology into modern education. Virtual assistants
+are the most used AI applications (88.2%), providing support for information retrieval, task
+management, and real-time feedback. Additionally, 42.4% of respondents use AI-based ed
+ucational platforms, reflecting a shift toward personalized and interactive learning. Virtual
+assistants help students access relevant information quickly, organize tasks, and receive
+instant feedback, thereby enhancing efficiency and engagement in the educational process.
+The thematic analysis of open-ended responses reveals AI has a dual impact. On the
+one hand, students support its integration to complement traditional teaching methods;
+Educ. Sci. 2025, 15, 343
+10 of 12
+on the other, some members of the academic community call for balanced regulations and
+more robust validation protocols. Triangulating data from various academic programs,
+such as Aerospace Engineering and Medical Engineering, confirms the consistency of these
+concerns, strengthening the reliability of our conclusions.
+Based on this study, we conclude that AI offers significant benefits, such as per
+sonalized learning, improved educational outcomes, and increased student engagement.
+However, it also presents challenges, such as over-reliance on technology, diminished
+critical thinking, and the risk of academic fraud. Educational institutions must adopt
+data protection measures and prevent bias, carefully weighing the pros and cons of AI
+implementation. These findings align with previous research showing that AI can adapt
+educational content to students’ individual needs, optimizing study time and enhancing
+academic performance (Krause et al., 2024).
+Our study also highlights some notable concerns as follows nearly half of the respon
+dents (48.2%) expressed reservations about the accuracy of AI-generated content, while
+others pointed out the risks of technological dependence, which may undermine critical
+thinking and human interaction. These concerns are also reflected in the literature. A recent
+study has stressed the negative impact of AI on critical thinking and human interaction,
+emphasizing the need for validation mechanisms and ethical regulations for technology
+use (Ju, 2023). Similarly, Săseanu et al. (2024) recommend control measures to mitigate
+the negative effects of AI, and Łodzikowski et al. (2023) emphasize the need for ethical
+regulations in AI use in education. The responsible implementation of AI in education can
+bring significant benefits, contributing to more adaptable and efficient academic prepara
+tion. AI should not replace traditional methods but should complement them, offering a
+personalized and optimized learning experience.
+Given the small sample size and its focus on specific academic programs, the findings
+should be considered preliminary and exploratory. They cannot be generalized to all
+students within these programs or to those in other fields. Additionally, the impact of AI
+on critical thinking and creativity was not extensively investigated. Future research with
+a larger, more diverse sample is needed to provide more robust insights. Such research
+could include students from various academic disciplines, years of study, and demographic
+backgrounds, offering a more comprehensive understanding of AI’ s impact on students in
+different educational contexts.
+5. Conclusions
+In conclusion, our research highlights that AI has become a critical component of the
+modern academic landscape, offering significant benefits such as personalized learning,
+enhanced engagement, and improved access to educational resources. Nevertheless, while
+most students view AI positively—citing its capacity to enhance learning efficiency and
+academic performance—there remain important challenges, particularly regarding the
+accuracy of AI outputs, the risk of over-dependence, and the potential erosion of critical
+thinking skills.
+To ensure the effective integration of AI in education, we recommend the following
+Comprehensive training Institutions should implement training programs for both
+educators and students to foster a thorough understanding of AI tools and their proper use.
+Clear guidelines and validation protocols Establish robust standards for AI deploy
+ment that include the regular validation of AI-generated information and clear guidelines
+to prevent over-reliance on technology.
+Ethical and privacy considerations Develop and enforce policies to protect student
+data and mitigate potential biases in AI systems.
+Educ. Sci. 2025, 15, 343
+11 of 12
+Longitudinal research Future studies should adopt longitudinal designs with larger,
+more diverse samples to better understand the long-term effects of AI on academic out
+comes and career development.
+By addressing these recommendations, educational institutions can ensure that AI
+complements rather than replaces traditional teaching methods, ultimately fostering a more
+adaptable, efficient, and personalized learning environment that supports the development
+of essential skills for future success.
+Author Contributions Conceptualization, A.M.V. and G.P.; methodology, A.M.V. and G.P.; software,
+A.M.V. and G.P.; validation, A.M.V. and G.P.; formal analysis, A.M.V. and G.P.; investigation, A.M.V.
+and G.P.; resources, A.M.V. and G.P.; data curation, A.M.V. and G.P.; writing—original draft prepa
+ration, A.M.V. and G.P.; writing—review and editing, A.M.V. and G.P.; visualization, A.M.V. and
+G.P.; supervision, A.M.V. and G.P.; project administration, A.M.V. and G.P. All authors have read and
+agreed to the published version of the manuscript.
+Funding This research received no external funding.
+Institutional Review Board Statement The current study was conducted in line with the ethical
+standards for research involving human subjects, following approval from our University Ethics
+Committee. Additionally, ethical clearance was obtained in accordance with the principles outlined
+in the Declaration of Helsinki, given that the study included human participants.
+Informed Consent Statement Informed consent was waived for this study because no personal
+data were collected from the students, such as first and last names, email addresses, phone numbers,
+or any other type of information that could lead to their identification. The data analyzed were
+fully anonymized, with no personal data or identifiable information attached to individual students.
+Therefore, no personal data or links to students’ identities were included in the dataset.
+Data Availability Statement The raw data supporting the conclusions of this article can be made
+available by the authors upon request.
+Conflicts of Interest The authors declare no conflicts of interest.
+References
+Baker, J. A. (2021). Artificial intelligence in education Bringing it all together. In OECD digital education outlook 2021 Pushing the
+frontiers with AI, blockchain, and robotics (pp. 43–56). OECD Library. [CrossRef]
+Baker, T., Smith, L., & Anissa, N. (2019). Educ-AI-tion rebooted Exploring the future of artificial intelligence in schools and colleges. Available
+online httpswww.nesta.org.ukreporteducation-rebooted (accessed on 29 January 2025).
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3(2), 77–101. [CrossRef]
+Castaneda, L., & Selwyn, N. (2018). More than tools Making sense of the ongoing digitization of higher education. International Journal
+of Educational Technology in Higher Education, 15, 22. [CrossRef]
+Chen, X., Xie, H., & Hwang, G. J. (2020). A multi-perspective study on artificial intelligence in education Grants, conferences, journals,
+software tools, institutions, and researchers. Computer & Education Artificial Intelligence, 1, 100005. [CrossRef]
+DuBoulay, B. (2000). Can we learn from ITSs. In The international conference on intelligent tutoring systems (pp. 9–17). Springer.
+Edtech. (2020). Successful AI examples in higher education that can inspire our future. EdTech Magazine. Available on
+line httpsedtechmagazine.comhigherarticle202001successful-ai-examples-higher-education-can-inspire-our-future
+utm_source=chatgpt.com (accessed on 29 January 2025).
+Ezzy, D. (2002). Qualitative analysis. Psychology Press.
+Facione, P. A. (2020). Critical thinking What it is and why it counts. Insight Assessment. Available online httpsinsightassessment.com
+unlock-resources (accessed on 29 January 2025).
+Hennekeuser, D., Vaziri, D. D., Golchinfar, D., Schreiber, D., & Stevens, G. (2024). Enlarged education—Exploring the use of generative
+AI to support lecturing in higher education. International Journal of Artificial Intelligence in Education, 1–33. [CrossRef]
+Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial intelligence in education Promises and implications for teaching and learning. Center for
+Curriculum Redesign. ISBN-13 978-1-794-29370-0.
+Holmes, W., & Tuomi, I. (2022). State of the art and practice in AI in education. European Journal of Education, 57, 542–570. [CrossRef]
+Educ. Sci. 2025, 15, 343
+12 of 12
+Hwang, G. J., Xie, H., Wah, B. W., & Gasevic, D. (2020). Vision, challenges, roles, and research issues of artificial intelligence in
+education. Computers & Education Artificial Intelligence, 1, 100001. [CrossRef]
+Johnson, A., & Smith, B. (2019). The impact of personalized learning on student attitudes and self-efficacy in mathematics. Educational
+Technology Research and Development, 38(2), 201–218.
+Ju, Q. (2023). Experimental evidence on the negative impact of generative AI on scientific learning outcomes. arXiv, arXiv2311.05629.
+Krause, S., Panchal, B. H., & Ubhe, N. (2024). The evolution of learning Assessing the transformative impact of generative AI on
+higher education. arXiv, arXiv2404.10551.
+Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence unleashed An argument for AI in education. Pearson Education.
+Łodzikowski, K., Foltz, P. W., & Behrens, J. T. (2023). Generative AI and its educational implications. Available online https
+link.springer.comchapter10.1007978-3-031-64487-0_2 (accessed on 29 January 2025).
+O’Neil, C. (2016). Weapons of math destruction How big data increases inequality and threatens democracy. Crown Publishing Group.
+Pinkwart, N. (2016). Another 25 years of AIED Challenges and opportunities for intelligent educational technologies of the future.
+International Journal of Artificial Intelligence in Education, 26(2), 771–783. [CrossRef]
+Qadir, J. (2023, May 1–4). Engineering education in the era of ChatGPT Promise and pitfalls of generative AI for education. 2023 IEEE Global
+Engineering Education Conference (EDUCON) (pp. 1–9), Kuwait City, Kuwait. [CrossRef]
+Săseanu, A. S., Gogonea, R. M., & Ghit ,
+ă, S. I. (2024). The social impact of using artificial intelligence in education. Amfiteatru Economic,
+26(65), 89–105. [CrossRef]
+Selwyn, N. (2016). Is technology good for education Polity Press.
+Selwyn, N. (2022). Should robots replace teachers AI and the future of education. Polity Press.
+Williamson, B. (2017). Big data in education The digital future of learning, policy and practice. SAGE Publications.
+Wu, Y. (2023). Integrating generative AI in education How ChatGPT brings challenges for future learning and teaching. Journal of
+Advanced Research in Education, 2(4), 6–10. Available online httpswww.pioneerpublisher.comjare (accessed on 29 January
+2025). [CrossRef]
+Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications
+in higher education—Where are the educators International Journal of Educational Technology in Higher Education, 16(1), 39.
+[CrossRef]
+DisclaimerPublisher’s Note The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI andor the editor(s). MDPI andor the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
